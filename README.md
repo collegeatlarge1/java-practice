@@ -22,7 +22,7 @@ This is a comprehensive Java project to showcase various basic Java skills using
     ```
 2. Navigate to the project directory:
     ```sh
-    cd BasicJavaProject
+    cd Javapractice
     ```
 3. Compile the Java code:
     ```sh
